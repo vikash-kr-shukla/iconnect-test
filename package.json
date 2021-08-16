@@ -1,0 +1,15 @@
+{
+  "name": "iconnect",
+  "version": "1.0.0",
+  "description": "Test Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "test",
+    "code"
+  ],
+  "author": "vikash kr shukla",
+  "license": "ISC"
+}
